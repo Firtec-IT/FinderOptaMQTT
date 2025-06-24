@@ -78,3 +78,9 @@ Per compilare e caricare questo sketch, avrai bisogno di:
 * La libreria **PubSubClient** installata nel tuo IDE Arduino.
 * L'ambiente di sviluppo **Arduino IDE**.
 * Un file `opta_info.h` che definisca le informazioni della scheda (es. `mac_address`).
+
+ ## Esempio di comunicazione con Home Assistant
+
+![Output](https://github.com/Firtec-IT/FinderOptaMQTT/blob/main/Output.png?raw=true)
+![Input Digitali](https://github.com/Firtec-IT/FinderOptaMQTT/blob/main/Input%20Digitali.png?raw=true)
+![Input Analogici](https://github.com/Firtec-IT/FinderOptaMQTT/blob/main/Input%20Analogici.png?raw=true)
