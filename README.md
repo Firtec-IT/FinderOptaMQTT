@@ -81,6 +81,6 @@ Per compilare e caricare questo sketch, avrai bisogno di:
 
  ## Esempio di comunicazione con Home Assistant
 
-![Output](https://github.com/Firtec-IT/FinderOptaMQTT/blob/main/Output.png?raw=true)
-![Input Digitali](https://github.com/Firtec-IT/FinderOptaMQTT/blob/main/Input%20Digitali.png?raw=true)
-![Input Analogici](https://github.com/Firtec-IT/FinderOptaMQTT/blob/main/Input%20Analogici.png?raw=true)
+![Output](https://github.com/Firtec-IT/FinderOptaMQTT/blob/main/Images/Output.png?raw=true)
+![Input Digitali](https://github.com/Firtec-IT/FinderOptaMQTT/blob/main/Images/Input%20Digitali.png?raw=true)
+![Input Analogici](https://github.com/Firtec-IT/FinderOptaMQTT/blob/main/Images/Input%20Analogici.png?raw=true)
