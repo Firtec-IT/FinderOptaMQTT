@@ -1,6 +1,6 @@
 # Comunicazione MQTT con Finder Opta
 
-Questo repository ospita uno sketch Arduino progettato per abilitare la comunicazione **MQTT (Message Queuing Telemetry Transport)** con un dispositivo **Finder Opta**. Permette al Finder Opta di pubblicare lo stato dei suoi input digitali e analogici su un broker MQTT e di sottoscriversi a topic specifici per controllare i suoi output (relay).
+Questo repository contiene uno sketch Arduino progettato per abilitare la comunicazione **MQTT (Message Queuing Telemetry Transport)** con un dispositivo **Finder Opta**. Permette al Finder Opta di pubblicare lo stato dei suoi input digitali e analogici su un broker MQTT e di sottoscriversi a topic specifici per controllare i suoi output (relay).
 
 ## Funzionalità Principali
 
